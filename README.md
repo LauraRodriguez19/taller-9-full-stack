@@ -24,10 +24,10 @@
 <h2> Punto 6: Texto </h2>
 <img src="./public/punto-6.jpg" alt="HTML">
 
-<h2> Punto 7-8: Nav </h2>
+<h2> Punto 7-8: Navegacion</h2>
 <img src="./public/punto-7-8.jpg" alt="HTML">
 
-<h2> Punto 9: Tabla </h2>
+<h2> Punto 9: Tablas </h2>
 <img src="./public/punto-9.jpg" alt="HTML">
 
 <h2> Punto 10: Grid </h2>
