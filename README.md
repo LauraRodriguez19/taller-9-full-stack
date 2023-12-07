@@ -19,22 +19,22 @@
 <img src="./public/Punto 4.png" alt="HTML">
 
 <h2> Punto 5: Texto </h2>
-<img src="./public/Punto-5.jpg" alt="HTML">
+<img src="./public/punto-5.jpg" alt="HTML">
 
 <h2> Punto 6: Texto </h2>
-<img src="./public/Punto-6.jpg" alt="HTML">
+<img src="./public/punto-6.jpg" alt="HTML">
 
 <h2> Punto 7-8: Nav </h2>
-<img src="./public/Punto-7-8.jpg" alt="HTML">
+<img src="./public/punto-7-8.jpg" alt="HTML">
 
 <h2> Punto 9: Tabla </h2>
-<img src="./public/Punto-9.jpg" alt="HTML">
+<img src="./public/punto-9.jpg" alt="HTML">
 
 <h2> Punto 10: Grid </h2>
-<img src="./public/Punto-10.jpg" alt="HTML">
+<img src="./public/punto-10.jpg" alt="HTML">
 
 <h2> Punto 11: Animaciones </h2>
-<img src="./public/Punto-11.jpg" alt="HTML">
+<img src="./public/punto-11.jpg" alt="HTML">
 
 <h2> Punto 12: Tabla </h2>
-<img src="./public/Punto-12.jpg" alt="HTML">
+<img src="./public/punto-12.jpg" alt="HTML">
