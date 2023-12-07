@@ -1,0 +1,25 @@
+#verde{
+    color: green;
+    text-decoration: underline green;
+}
+
+#rojo{
+    color: red;
+}
+
+#subrayado{
+    text-decoration: underline overline;
+}
+
+#azul{
+    color: blue;
+}
+
+#rojoSub{
+    color: red;
+    text-decoration: underline red;
+}
+
+#grande{
+    font-size: 4vh;
+}

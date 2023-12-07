@@ -1,0 +1,29 @@
+table {
+    border: 1px dotted !important;
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    background-color: yellow;
+}
+
+td {
+    border: 1px dotted #000;
+    
+    padding: 10px;
+    text-align: center;
+}
+#sinborder{
+    border-bottom: 2px dotted red !important;
+}
+
+.header {
+    color: red;
+    border: none;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.content {
+    text-align: left;
+}

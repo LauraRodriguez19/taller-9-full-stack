@@ -1,0 +1,26 @@
+nav ul {
+    display:flex;
+    gap:45px;
+    list-style:none;
+}
+nav ul li a{
+    text-decoration:none; 
+    color: white;
+}
+
+
+.navegacion{
+    background-color: plum  ;
+    width: 600px;
+    padding: 0.05px;
+}
+
+li{
+    padding: 10px;
+}
+
+li:hover{
+    background-color: blue ;
+    cursor: pointer;
+}
+
